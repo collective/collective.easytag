@@ -15,7 +15,7 @@ long_description = (
 
 setup(name='collective.easytag',
       version=version,
-      description="Make content tagging easier in Plone",
+      description="Make content tagging in Plone easier",
       long_description=long_description,
       # Get more strings from
       # http://pypi.python.org/pypi?%3Aaction=list_classifiers

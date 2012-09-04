@@ -4,5 +4,8 @@ Changelog
 1.0-dev (unreleased)
 --------------------
 
-- Package created using templer
-  []
+- overrode form templates
+- internationalization
+- added viewlet
+- created package by zopeskel
+  [gborelli]
